@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="MADNB3266" name="GoogleSearchTest" skipped="0" tests="1" time="6.843" timestamp="2018-04-11T15:25:20">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="result.exec.file" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\target\jacoco.exec" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\templates" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\classes" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840" />
+    <property name="java.runtime.version" value="1.8.0_151-b12" />
+    <property name="test.build.dir" value="build/test" />
+    <property name="user.name" value="anna.zhuravleva" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin" />
+    <property name="ant.project.name" value="simpliestAnt" />
+    <property name="java.version" value="1.8.0_151" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="test.src.dir" value="src/test/java" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_151\jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="result.report.dir" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\target\site\jacoco" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.151-b12" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840\lib" />
+    <property name="result.classes.dir" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\target\classes" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="_jacoco.agentFile" value="C:\Users\ANNA~1.ZHU\AppData\Local\Temp\jacocoagent7898389827501630957.jar" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\scripts" />
+    <property name="user.home" value="C:\Users\anna.zhuravleva" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/anna.zhuravleva/Documents/eclipse/jre/bin/server;C:/Users/anna.zhuravleva/Documents/eclipse/jre/bin;C:/Users/anna.zhuravleva/Documents/eclipse/jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\hybris\hybris\bin\ext-content\npmancillary\resources\npm\node;C:\hybris\hybris\bin\ext-content\npmancillary\resources\npm\node_modules\.bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Apache Ant\bin;C:\Users\anna.zhuravleva\AppData\Local\Microsoft\WindowsApps;C:\Users\anna.zhuravleva\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Users\anna.zhuravleva\Documents\eclipse;;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner GoogleSearchTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter,C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\TEST-GoogleSearchTest.txt formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\TEST-GoogleSearchTest.xml crashfile=C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\junitvmwatcher4296002753840212232.properties propsfile=C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\junit7573669371124670737.properties" />
+    <property name="java.class.path" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\lib\hamcrest-core-1.3.jar;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\lib\jacocoant.jar;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\lib\junit-4.12.jar;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\lib\phantomjsdriver-1.4.4.jar;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\lib\selenium-api-3.9.1.jar;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\lib\selenium-java-3.9.1.jar;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\lib\selenium-server-3.9.1.jar;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\lib\selenium-server-standalone-3.9.1.jar;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\build\main;C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\build\test;C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-launcher.jar;C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar;C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit.jar;C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit4.jar;C:\Users\ANNA~1.ZHU\AppData\Local\Temp\jacocoagent7898389827501630957.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.1 compiled on February 2 2017" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="ant.file.type.simpliestAnt" value="file" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="eclipse.pdebuild.home" value="C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\." />
+    <property name="java.io.tmpdir" value="C:\Users\ANNA~1.ZHU\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver" />
+    <property name="ant.file.simpliestAnt" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\build.xml" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="result.dir" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\target" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\anna.zhuravleva\Documents\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar" />
+    <property name="main.build.dir" value="build/main" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="main.src.dir" value="src/main/java" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="report" />
+  </properties>
+  <testcase classname="GoogleSearchTest" name="testGoogleSearch" time="6.409" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Apr 11, 2018 5:25:21 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: C:\Users\anna.zhuravleva\Documents\Alrquitectura\phantom\phantomjs-2.1.1-windows\bin\phantomjs.exe
+Apr 11, 2018 5:25:21 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 10053
+Apr 11, 2018 5:25:21 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=10053, --webdriver-logfile=C:\Users\anna.zhuravleva\Documents\workspaceEclipse\SeleniumWebDriver\phantomjsdriver.log]
+Apr 11, 2018 5:25:21 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+[INFO  - 2018-04-11T15:25:25.229Z] GhostDriver - Main - running on port 10053
+[INFO  - 2018-04-11T15:25:26.301Z] Session [8f492c50-3d9c-11e8-a0fe-cbbc4b496019] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-04-11T15:25:26.301Z] Session [8f492c50-3d9c-11e8-a0fe-cbbc4b496019] - page.customHeaders:  - {}
+[INFO  - 2018-04-11T15:25:26.304Z] Session [8f492c50-3d9c-11e8-a0fe-cbbc4b496019] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-11T15:25:26.304Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8f492c50-3d9c-11e8-a0fe-cbbc4b496019
+Apr 11, 2018 5:25:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[INFO  - 2018-04-11T15:25:27.324Z] ShutdownReqHand - _handle - About to shutdown
+]]></system-err>
+</testsuite>
